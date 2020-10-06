@@ -1,4 +1,4 @@
-# sdt
+# Soft Decision Tree
 
 This is reimplementation of Ozan Irzoy Soft Decision Trees( http://www.cs.cornell.edu/~oirsoy/softtree.html ) in Matlab.
 
@@ -22,3 +22,13 @@ MAXEPOCH 25       // number of epochs in training
 MAXRETRY 10       // number of restart of optimization from a starting point
 
 PRETH 1e-3        // prepruning threshold
+
+## TODO:
+* port the code into python
+* example comparison
+  - decision tree
+  - random forest
+  - soft decision tree
+* compare
+  - depth
+  - complexity
