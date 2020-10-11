@@ -25,6 +25,7 @@ PRETH 1e-3        // prepruning threshold
 
 ## TODO:
 * port the code into python
+  - http://mathesaurus.sourceforge.net/matlab-numpy.html
 * example comparison
   - decision tree
   - random forest
